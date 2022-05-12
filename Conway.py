@@ -59,10 +59,4 @@ def conway(sidelist):
 try:
     conway(mainlist) 
 except KeyboardInterrupt :
-    print("you stopped the program")             
-
-    
-        
-
-    
-
+    print("you stopped the program")         
